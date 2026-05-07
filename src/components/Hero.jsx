@@ -69,8 +69,7 @@ export default function Hero() {
               }}
               src={profile}
               alt="Samuel Seifu"
-              className="relative w-[320px] h-[320px] object-cover rounded-3xl border border-gray-800 shadow-2xl"
-            />
+              className="relative w-[320px] h-[320px] object-cover rounded-3xl border border-gray-800 shadow-2xl grayscale hover:grayscale-0 transition duration-500"            />
 
           </div>
         </motion.div>
