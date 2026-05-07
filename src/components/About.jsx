@@ -17,7 +17,7 @@ export default function About() {
         whileInView={{ opacity: 1, y: 0 }}
         className="text-gray-400 leading-relaxed"
       >
-        I'm a Computer Science student at St. Mary’s University focused on building 
+        I'm a Computer Science 4th year(GC) student at St. Mary’s University focused on building 
         scalable, real-world web applications using the MERN stack.
       </motion.p>
 
